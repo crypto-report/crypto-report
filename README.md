@@ -1,16 +1,17 @@
-### Hi there 👋
+### Crypto Report Privacy Policy
 
-<!--
-**crypto-report/crypto-report** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Collection of Personal Information
 
-Here are some ideas to get you started:
+We do not collect, store, use or share any information, personal or otherwise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Email
+
+If you email the developer for support or other feedback, the emails with email addresses will be retained for quality assurance purposes. The email addresses will be used only to reply to the concerns or suggestions raised and will never be used for any marketing purpose.
+
+# Disclosure of Personal Information
+
+We will not disclose your information to any third party except if you expressly consent or where required by law.
+
+# Contacting Us
+
+If you have any questions regarding this privacy policy, you can email crprt001@gmail.com
